@@ -1,0 +1,21 @@
+#Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore logs and output files
+*.log
+*.csv
+*.json
+nohup.out
+
+# Ignore virtual environment 
+venv/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment variables
+.env
+
+
