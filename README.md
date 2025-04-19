@@ -76,15 +76,6 @@ Add this line:
 ```
 
 ---
-
-## 📌 Contributing
-Feel free to fork this repository, make improvements, and submit pull requests! 🚀
-
-## 📌 License
-This project is open-source under the MIT License.
-
----
-
 ### **Author**
 👤 [Aaron Joy]  
 📧 aaronjoy382@gmail.com  
